@@ -13,7 +13,7 @@ body {
     background-size: cover;
     height: 600px;
     background-repeat: no-repeat;
-    margin-bottom: 100PX;
+    margin-bottom: 50PX;
 
 }
 
@@ -92,7 +92,7 @@ body {
 .donate-section {
     width: 40%;
     padding-left: 30%;
-    margin-bottom: 100px;
+    margin-bottom: 30px;
 }
 
 
@@ -112,7 +112,7 @@ body {
 
     padding-left: 15%;
     padding-top: 20px;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 
 }
 
@@ -180,12 +180,12 @@ body {
 
 .align-center {
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 
 .donate-plan {
     text-align: center;
-    font size: 35px;
+    font-size: 30px;
 
 }
 
@@ -197,4 +197,59 @@ body {
 .plan-width {
     width: 40%;
     padding-left: 30%;
+}
+
+.food-icon {
+    width: 50px;
+    text-align: center;
+}
+
+.dispaly-flax1 {
+    display: flex;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-block: 5%;
+
+
+}
+
+.width1 {
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.food-para {
+    text-align: justify;
+
+}
+
+.align-pa {
+    text-align: center;
+}
+
+.icon {
+    text-align: center;
+}
+
+#bc3 {
+    background-color: azure;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 15px;
+    margin-right: 20px;
+}
+
+#bc2 {
+    background-color: beige;
+    padding-right: 20px;
+    padding-top: 15px;
+    border-radius: 15px;
+    margin-right: 20px;
+}
+
+#bc {
+    background-color: aquamarine;
+    padding-top: 15px;
+    margin-right: 20px;
 }
