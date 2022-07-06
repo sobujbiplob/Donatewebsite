@@ -2,6 +2,9 @@ body {
     font-family: 'Poppins', sans-serif;
 
     padding: 0%;
+    margin-bottom: 100px;
+
+
 
 }
 
@@ -9,10 +12,9 @@ body {
     background-image: url(/image/donate.jpg);
     background-size: cover;
     height: 600px;
-
-
-
     background-repeat: no-repeat;
+    margin-bottom: 100PX;
+
 }
 
 * {
@@ -75,5 +77,53 @@ body {
     padding-top: 5px;
     border-radius: 10px;
     color: white;
+
+}
+
+.donate-text {
+    text-align: center;
+    font-size: 35px;
+}
+
+#align-para {
+    text-align: center;
+}
+
+.donate-section {
+    width: 40%;
+    padding-left: 30%;
+}
+
+
+.padding-dollar {
+    padding-left: 20px;
+    text-align: center;
+
+}
+
+.dollar-width {
+    width: 150px;
+    text-align: center;
+}
+
+.display-fx {
+    display: flex;
+
+    padding-left: 15%;
+    padding-top: 20px;
+
+}
+
+.fontsize-para {
+    font-size: 18px;
+}
+
+.border {
+
+    border-radius: 5px;
+    padding-right: 5px;
+    height: 50px;
+    padding-top: 15px;
+
 
 }
